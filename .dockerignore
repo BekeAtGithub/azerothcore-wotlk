@@ -10,5 +10,5 @@
 .idea
 !.gitkeep
 
-# do not ignore the ccache folder (used by the ci) 
+# do not ignore the cache folder (used by the ci) 
 !/var/docker/ccache
