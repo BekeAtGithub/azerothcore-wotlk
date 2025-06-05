@@ -1,4 +1,4 @@
-### TITLE
+### TITLE 
 ## Type(Scope/Subscope): Commit ultra short explanation
 ## |---- Write below the examples with a maximum of 50 characters ----|
 ## Example 1: fix(DB/SAI): Missing spell to NPC Hogger
