@@ -25,7 +25,7 @@ endif()
 # Set projectname (must be done AFTER setting configurationtypes)
 project(AzerothCore VERSION 3.0.0 LANGUAGES CXX C)
 
-# add this options before PROJECT keyword
+# add this options before PROJECT keyword!
 set(CMAKE_DISABLE_SOURCE_CHANGES ON)
 set(CMAKE_DISABLE_IN_SOURCE_BUILD ON)
 
